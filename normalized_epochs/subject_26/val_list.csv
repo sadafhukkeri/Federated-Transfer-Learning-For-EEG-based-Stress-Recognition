@@ -1,0 +1,4 @@
+epoch_path,label
+subject_26\relaxed\epoch_0002.npy,relaxed
+subject_26\stress\epoch_0007.npy,stress
+subject_26\stress\epoch_0004.npy,stress

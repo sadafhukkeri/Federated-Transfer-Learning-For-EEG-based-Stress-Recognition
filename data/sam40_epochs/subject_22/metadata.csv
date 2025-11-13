@@ -1,0 +1,13 @@
+epoch_path,label,src_file
+subject_22\stress\epoch_0000.npy,stress,Arithmetic_sub_22.csv
+subject_22\stress\epoch_0001.npy,stress,Arithmetic_sub_22.csv
+subject_22\stress\epoch_0002.npy,stress,Arithmetic_sub_22.csv
+subject_22\stress\epoch_0003.npy,stress,Mirror_image_sub_22.csv
+subject_22\stress\epoch_0004.npy,stress,Mirror_image_sub_22.csv
+subject_22\stress\epoch_0005.npy,stress,Mirror_image_sub_22.csv
+subject_22\relaxed\epoch_0000.npy,relaxed,Relax_sub_22.csv
+subject_22\relaxed\epoch_0001.npy,relaxed,Relax_sub_22.csv
+subject_22\relaxed\epoch_0002.npy,relaxed,Relax_sub_22.csv
+subject_22\stress\epoch_0006.npy,stress,Stroop_sub_22.csv
+subject_22\stress\epoch_0007.npy,stress,Stroop_sub_22.csv
+subject_22\stress\epoch_0008.npy,stress,Stroop_sub_22.csv
